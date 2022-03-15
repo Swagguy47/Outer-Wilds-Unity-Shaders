@@ -17,6 +17,10 @@ Here are some notable examples so far:
 
 (Standard fire)
 
+![Image](src/owBHEx.jpg)
+
+(Blackhole and its distortion)
+
 ![Image](src/owGhostbirdSkinEx.jpg)
 
 (Ghostbird skin setup in inspector)
