@@ -27,7 +27,7 @@ Here are some notable examples so far:
 
 ![Image](src/owMatEx.jpg)
 
-(The included premade materials, mostly just fire stuff)
+(Some of the included premade materials, mostly just fire stuff)
 
 ------------------------------------------
 
