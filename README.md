@@ -1,13 +1,11 @@
 # Outer Wilds Shaders
 
-This project is my attempt at recreating the (useful) Unity shaders from Outer Wilds
+This project is my attempt at recreating some Unity shaders from Outer Wilds
 
-These were created using ASE in order to save my brain cells
+These were created using ASE for simplicity
 
 
-
-The shaders are not exact, nor are they attempting to restore the originals with all of their values,
-but they still attempt to recreate their visuals as best as possible, and along the way have helped me and hopefully others understand their structure
+These shaders are not intended as 1-1 replicas with the same parameters and output, but rather my own custom approaches with similar enough inputs to get a close result.
 
 ------------------------------------------
 
@@ -31,8 +29,7 @@ Here are some notable examples so far:
 
 ------------------------------------------
 
-Obviously there are more in there than what I showed, some foliage and other small, maybe useful, things.
-
+There are some more than what is shown here.
 
 Credits to Mobius Digital and Annapurna Interactive for making such an amazing game.
 I take no credit for their work.
